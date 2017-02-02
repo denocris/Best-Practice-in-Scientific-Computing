@@ -40,7 +40,7 @@
 - Formation of development project teams and project planning
 
 ### Day 4 and 5:
--Work on team programming project
+- Work on team programming project
 	- Scrum meetings (1x morning, 1x afternoon)
 	- Development sprints
 	- Project review (friday afternoon)
