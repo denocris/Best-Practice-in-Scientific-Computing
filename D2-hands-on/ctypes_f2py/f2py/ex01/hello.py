@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-import hello
+from hello import *
 
-print "Calling Fortran subroutine"
-hello.hello()
-print "Done"
+print("Calling Fortran subroutine")
+hello()
+print("Done")
